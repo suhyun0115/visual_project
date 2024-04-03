@@ -2,7 +2,7 @@
 ## 👥 Team
 - Team name : HEE
 - Team members : 함은규, 이수현, 이지우
-- * :clock1:시작일 : 2024.02.26(월)
+- * :clock1:시작일 : 2023.12.11(월)
   * ⏰목표일 : 2023.12.11(월)
 ## :books: skill
 - **Programming** <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=Matplotlib&logoColor=white"><img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=Seaborn&logoColor=white"><img src="https://img.shields.io/badge/Folium-3776AB?style=for-the-badge&logo=Folium&logoColor=white">
