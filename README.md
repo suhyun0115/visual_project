@@ -10,7 +10,7 @@
 - **Git** <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=jupyter&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
 ## 목차(INDEX)
-&emsp;&ensp;Ⅰ. 주제 선정</br>&emsp;&ensp;Ⅱ. Data preprocessing</br>&emsp;&ensp;Ⅲ. 시각화</br>&emsp;&ensp;Ⅳ. 결론</br>&emsp;&ensp;
+&emsp;&ensp;Ⅰ. 주제 선정</br>&emsp;&ensp;Ⅱ. 분석</br>&emsp;&ensp;Ⅲ. 결론</br>&emsp;&ensp;
 
 ## Ⅰ. 주제선정
   **1. 서울 지역구별 범죄 건수와 경찰서, CCTV 상관관계 분석**</br>
