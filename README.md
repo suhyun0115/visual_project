@@ -42,16 +42,6 @@
        &nbsp;&nbsp;&nbsp; 2) 지역구별 비율 비교 : 범죄비율 vs 경철서비율 vs CCTV비율</br>
        
 
-**3. 데이터 기본분석(3)**</br>
-       &nbsp;&nbsp;&nbsp; 1) DataFrame 변경 (id, category 삭제)</br>
-       &nbsp;&nbsp;&nbsp; 2) Dataset 증강 (기존 카테고리를 제외하고 다른 카테고리 질문을 추가)</br>
-       &nbsp;&nbsp;&nbsp; 3) Tokenizer</br>       
-
-**4. 데이터 기본분석(4)**</br>
-       &nbsp;&nbsp;&nbsp; 1) DataFrame 변경 (id, category 삭제)</br>
-       &nbsp;&nbsp;&nbsp; 2) Dataset 증강 (기존 카테고리를 제외하고 다른 카테고리 질문을 추가)</br>
-       &nbsp;&nbsp;&nbsp; 3) Tokenizer</br>       
-
 **5. 중간 결론 : CCTV가 증가하면 범죄율을 줄이는 효과가 있을 수 있다.**</br>
        &nbsp;&nbsp;&nbsp; 1) . 상관계수(0.65)로 보면 범죄율에 따라 CCTV비율이 증가하는 것으로 판단할 수 있으나 비중이 한쪽으로 집중되어 있는 것이 보이며, CI가 확장되어 상호관계가 명확하지 않음</br>
        &nbsp;&nbsp;&nbsp; 2) CCTV증가에 따른 CCTV당 범죄를 확인해 보면 CCTV가 증가함에 따라 범죄율이 줄어는 것을 볼수있다</br>
